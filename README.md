@@ -18,5 +18,5 @@
   <a href="https://www.instagram.com/giu_trevisan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a> 
   <a href = "mailto:giutrevisan.alu.lmb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+  ![Snake animation](https://github.com/giuliatrevisan/giuliatrevisan/blob/output/github-contribution-grid-snake.svg)
 </div>
