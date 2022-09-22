@@ -1,4 +1,4 @@
-## Oiii eu sou a Giulia Trevisan, estudante de programação e tecnologia!
+## Ciao come stai? Sono Giulia Trevisan, studentessa di programmazione e tecnologia! Amo i libri, passo il tempo a imparare cose nuove e il gelato.
 <div align="center">
   <a href="https://github.com/giuliatrevisan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giuliatrevisan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
