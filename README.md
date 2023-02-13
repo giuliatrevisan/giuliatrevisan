@@ -1,8 +1,8 @@
 ## Whoa, va bene? Sono Giulia Trevisan, studentessa di programmazione e tecnologia! Amo i libri, passo il tempo a imparare cose nuove e amo molto mangiare il gelato.
 <div>
 <a href="https://github.com/giuliatrevisan">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanuelleaviana&theme=midnight-purple&show_icons=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelleaviana&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=giuliatrevisan&theme=midnight-purple&show_icons=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliatrevisan&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
  ![Snake animation](https://github.com/giuliatrevisan/giuliatrevisan/blob/output/github-contribution-grid-snake.svg)
