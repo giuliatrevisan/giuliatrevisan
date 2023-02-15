@@ -22,3 +22,5 @@
 </a> 
   <a href = "mailto:giutrevisan.alu.lmb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/emanuelleaviana/emanuelleaviana/blob/output/github-contribution-grid-snake.svg)
